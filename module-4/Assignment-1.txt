@@ -1,0 +1,35 @@
+Substrate Environment Setup
+
+Objective:
+The objective of this assignment is to ensure that students can set up their development environment for Substrate-based parachain development. Students will be provided with a step-by-step guide or video tutorial on setting up a Substrate development environment, and they will follow the provided instructions. They are required to document any challenges or issues encountered during the setup process and submit a brief report outlining their setup experiences.
+
+Instructions:
+
+Introduction to Substrate Development: Begin by explaining the importance of a properly configured development environment for Substrate-based parachain development. Emphasize that a well-prepared environment is essential for writing, testing, and deploying parachain code.
+
+Setup Guide or Tutorial: Provide students with a step-by-step guide or video tutorial on setting up a Substrate development environment. This guide should cover the following aspects:
+
+a. Installing necessary tools and dependencies, including Rust, Substrate node, and development libraries.
+
+b. Configuring the Rust environment for Substrate development.
+
+c. Cloning and initializing a Substrate project repository.
+
+Documentation and Troubleshooting: Instruct students to follow the provided setup instructions carefully. During the setup process, they should document any challenges, errors, or issues they encounter. Encourage them to be thorough in noting any difficulties faced.
+
+Report Submission: Ask students to submit a brief report outlining their setup experiences. The report should include the following:
+
+a. A summary of the steps they followed to set up the Substrate environment.
+
+b. Details of any challenges or issues encountered and their attempts to resolve them.
+
+c. Confirmation that their development environment is successfully configured and ready for Substrate development.
+
+Optional Feedback: Optionally, you can offer students the opportunity to seek help or clarifications if they encounter difficulties during the setup process.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completion of the setup process as per the provided guide or tutorial.
+Documentation of challenges or issues faced during setup.
+Clarity and completeness of the setup report.

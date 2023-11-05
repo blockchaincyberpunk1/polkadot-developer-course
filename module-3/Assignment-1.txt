@@ -1,0 +1,27 @@
+Smart Contract Fundamentals
+
+Objective:
+The objective of this assignment is to ensure that students have a strong understanding of smart contract basics in the context of blockchain technology. Students will be provided with resources explaining the concept and purpose of smart contracts, and they will be assigned to write a brief essay describing the core characteristics and potential applications of smart contracts on the Polkadot platform.
+
+Instructions:
+
+Introduction to Smart Contracts: Begin by introducing the concept of smart contracts in the context of blockchain technology. Explain that smart contracts are self-executing contracts with the terms of the agreement directly written into code.
+
+Provided Resources: Share a list of resources with students. These resources should include articles, videos, or documentation that explain the concept and purpose of smart contracts in the blockchain context. Ensure that the resources are accessible and comprehensive.
+
+Essay Assignment: Assign students to write a brief essay (approximately 500-700 words) on the following topics:
+
+a. Core Characteristics: In the first part of the essay, students should describe the core characteristics of smart contracts. They should cover aspects such as automation, trustlessness, and immutability. Encourage them to use examples or analogies to illustrate these characteristics.
+
+b. Potential Applications on Polkadot: In the second part of the essay, students should explore potential applications of smart contracts specifically on the Polkadot platform. They should consider the unique features of Polkadot, such as parachains and interoperability, and discuss how these features can enhance the utility of smart contracts within the Polkadot ecosystem.
+
+Relevance to Course: Explain how understanding smart contract fundamentals is relevant to the Polkadot Developer course and the broader blockchain development field.
+
+Submission: Students should submit their essays on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanation regarding the core characteristics of smart contracts.
+Thoughtfulness in discussing potential applications of smart contracts on Polkadot.
+Relevance of the content to the course objectives.

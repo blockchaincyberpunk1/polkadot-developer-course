@@ -1,0 +1,35 @@
+Ink! Contract Development
+
+Objective:
+The objective of this assignment is to enable students to apply their knowledge of Ink! by creating simple smart contracts. Students will be provided with a set of Ink! contract development tasks, such as creating a basic token contract or a simple voting contract. They will develop the contracts independently, adhering to best practices and including proper documentation, and submit their code along with a brief explanation of their contract's functionality.
+
+Instructions:
+
+Introduction to Contract Development: Begin by emphasizing the importance of practical contract development skills and how they align with the course objectives.
+
+Selection of Contract Type: Provide students with a choice of contract types they can develop. Examples include:
+
+a. Token Contract: A contract that implements a basic fungible token on the Polkadot network.
+
+b. Voting Contract: A contract that enables users to participate in a simple voting process.
+
+c. Multi-Signature Wallet: A contract that implements a multi-signature wallet for managing funds.
+
+d. Custom Contract (Optional): Allow students to propose their contract ideas if they have specific use cases in mind. They should seek approval from the instructor before proceeding with a custom contract.
+
+Contract Development: Instruct students to develop the selected contract using the Ink! smart contract language. They should follow best practices for code structure and readability. Encourage them to document their code thoroughly, including comments and explanations of the contract's key functions.
+
+Testing and Debugging: Encourage students to test their contracts on a local Polkadot testnet or using the provided testing tools. They should identify and resolve any issues or bugs they encounter during the development process.
+
+Documentation of Functionality: Ask students to provide a brief explanation of their contract's functionality. They should describe what the contract does, its main features, and how users can interact with it.
+
+Submission: Students should submit their completed contract code and documentation on the course platform by the specified deadline.
+
+Peer Review (Optional): Optionally, you can organize a peer review session where students review and provide feedback on each other's contract code and documentation. This can facilitate knowledge sharing and constructive feedback.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and correctness of the developed contract.
+Clarity and thoroughness of code documentation.
+Understanding and demonstration of the contract's functionality.

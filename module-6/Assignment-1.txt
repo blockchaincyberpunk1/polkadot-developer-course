@@ -1,0 +1,37 @@
+Security Best Practices for Parachains
+
+Objective:
+The objective of this assignment is to ensure that students have a strong understanding of security considerations when developing parachains on the Polkadot network. Students will research and compile a list of common security vulnerabilities and threats, analyze their potential consequences, propose security best practices, and provide practical examples of implementation.
+
+Instructions:
+
+Introduction to Parachain Security: Start by providing students with an introduction to the importance of security in parachain development on the Polkadot network. Emphasize the critical role of security in protecting both the network and user assets.
+
+Research and Compilation:
+
+Assign students to research and compile a list of common security vulnerabilities and threats that parachains might face in the Polkadot ecosystem. These vulnerabilities could relate to smart contracts, network-level attacks, data breaches, or other potential risks.
+Encourage students to use a variety of reputable sources, including academic papers, industry reports, and case studies.
+Analysis:
+
+Have students analyze and explain each identified security threat. They should outline the specific attack vectors, potential consequences for the network and users, and real-world examples if available.
+Ensure students provide a clear and comprehensive understanding of the threats.
+Security Best Practices:
+
+Task students with proposing security best practices and countermeasures to mitigate the identified security threats. Each best practice should be explained in detail, including its rationale and how it addresses specific vulnerabilities.
+Encourage students to consider a multi-layered security approach, covering aspects such as code security, network security, and data protection.
+Practical Examples:
+
+Require students to provide practical examples or code snippets illustrating how each security best practice can be implemented in parachain development. These examples should be clear and applicable to real-world scenarios.
+Students should demonstrate how their proposed best practices enhance security.
+Written Report:
+
+Ask students to present their findings in a well-structured written report. The report should include sections for vulnerabilities and threats, analysis, security best practices, practical examples, and references.
+Encourage clarity, organization, and proper citation of sources in the report.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Quality and depth of research on security vulnerabilities and threats.
+Thoroughness of analysis, including the understanding of potential consequences.
+Effectiveness and relevance of proposed security best practices.
+Clarity and applicability of practical examples.
+Overall quality and organization of the written report.

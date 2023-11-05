@@ -1,0 +1,38 @@
+Network Security Case Study
+
+Objective:
+The objective of this assignment is to deepen students' understanding of network security by analyzing a real-world security incident or attack on a blockchain network, with a focus on its implications for Polkadot and parachain development.
+
+Instructions:
+
+Introduction to Network Security: Begin by providing an overview of the importance of network security in blockchain ecosystems and its relevance to Polkadot.
+
+Case Study Selection:
+
+Assign each student or group of students a real-world security incident or attack that has occurred in the blockchain space. The incident should preferably be one that affected Polkadot, a parachain, or a similar platform. Some examples include a 51% attack, a smart contract vulnerability exploit, or a governance-related issue.
+Ensure that students have access to relevant articles, reports, or resources related to their assigned case study.
+Research and Analysis:
+
+Instruct students to thoroughly research and analyze their assigned security incident. They should consider the following aspects:
+The attack vector: How did the attack or incident occur? What vulnerabilities were exploited?
+Impact on the network: What were the consequences of the attack on the network's functionality, security, and reputation?
+Network response: How did the network's developers, validators, and community respond to mitigate the attack or address the incident?
+Lessons learned: What were the key takeaways from the incident? What security best practices could have prevented or minimized the impact?
+Governance implications: Discuss how the incident influenced governance decisions within the network, if applicable.
+Presentation:
+
+Have students prepare a presentation summarizing their case study analysis. Each presentation should cover the incident's background, the attack vector, impact, response, lessons learned, and governance implications.
+Encourage students to use visuals, data, and examples to support their analysis.
+Class Discussion:
+
+After each presentation, facilitate a class discussion where students can ask questions, provide feedback, and engage in critical discussions about the security incident and its relevance to Polkadot and parachain development.
+Reflection:
+
+Conclude the assignment by asking students to write a brief reflection on what they have learned from their case study analysis. They should consider the broader implications of security incidents in blockchain networks and the importance of proactive security measures in Polkadot parachain development.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the case study analysis.
+Clarity and effectiveness of the presentation.
+Active participation in class discussions.
+Thoughtfulness and insights provided in the reflections.

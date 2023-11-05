@@ -1,0 +1,38 @@
+Blockchain Use Cases
+
+Objective:
+The objective of this assignment is to encourage students to explore real-world applications of blockchain technology and understand how Polkadot's features could benefit or enhance the implementation of these use cases. Students will select one use case from a provided list, research it thoroughly, and present their findings.
+
+Instructions:
+
+Introduction to Blockchain Use Cases: Begin by explaining the significance of exploring blockchain use cases and their potential impact on various industries. Emphasize the importance of considering how Polkadot's features can contribute to these applications.
+
+Provided Use Case List: Share a list of blockchain use cases, including options such as supply chain, healthcare, finance, voting, or other relevant examples. Ensure that the list covers a diverse range of industries and applications.
+
+Use Case Selection: Instruct students to choose one use case from the provided list that they find interesting or relevant to their interests. They should select a use case they have not previously covered in the course.
+
+Research and Analysis: Students should thoroughly research the selected use case, focusing on its current challenges, limitations, and potential benefits of blockchain technology. They should also explore how Polkadot's features, such as interoperability, scalability, and governance, can address these challenges and enhance the implementation.
+
+Presentation: Ask students to prepare a presentation summarizing their findings and insights. The presentation should cover the following key points:
+
+a. Use Case Overview: Provide an overview of the selected use case, including its current state and challenges.
+
+b. Blockchain Benefits: Explain how blockchain technology can benefit the chosen use case in terms of transparency, security, and efficiency.
+
+c. Polkadot Integration: Describe how Polkadot's features can enhance the implementation of the use case. Discuss specific ways in which Polkadot's architecture and capabilities can address the challenges.
+
+d. Use Case Impact: Analyze the potential impact of implementing the use case with Polkadot technology. Discuss the benefits for stakeholders and potential challenges.
+
+Relevance to Course: Explain how the exploration of blockchain use cases and Polkadot's role in enhancing them is relevant to the Polkadot Developer course and the broader blockchain ecosystem.
+
+Presentation Session: Schedule a presentation session where each student presents their findings to the class. After each presentation, allow time for questions and discussion.
+
+Submission: Students should submit their presentation materials (e.g., slides and notes) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Thorough research and analysis of the selected use case.
+Clear presentation of how Polkadot's features can benefit the use case.
+Relevance of the content to the course objectives.
+Effective presentation delivery (if applicable).

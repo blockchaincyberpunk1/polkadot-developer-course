@@ -1,0 +1,31 @@
+Introduction to Substrate Modules
+
+Objective:
+The objective of this assignment is to familiarize students with Substrate modules and their role in parachain development. Students will be assigned readings or tutorials explaining the concept of modules in the Substrate framework. They will then choose a specific module, either a custom runtime module or an existing Substrate module, and study its documentation. Finally, students will write a summary of the module's purpose, key functions, and how it can be customized or extended for specific use cases.
+
+Instructions:
+
+Introduction to Substrate Modules: Begin by providing an overview of what Substrate modules are and their significance in parachain development. Explain that modules are essential components that define the functionality and behavior of a blockchain's runtime.
+
+Assigned Readings or Tutorials: Assign students relevant readings, tutorials, or documentation that explain the concept of Substrate modules. Ensure that the provided resources cover the basics of modules, their structure, and how they can be integrated into a Substrate-based blockchain.
+
+Module Selection: Instruct students to choose a specific Substrate module to study. They can either select an existing Substrate module (e.g., governance, staking) or explore how to create a custom runtime module.
+
+Module Study: Ask students to thoroughly study the documentation or reference materials related to their chosen module. They should focus on the following aspects:
+
+a. Module Purpose: Describe the primary purpose or functionality of the chosen module within the Substrate framework.
+
+b. Key Functions: Identify and summarize the key functions or features provided by the module.
+
+c. Customization and Extension: Explain how the module can be customized or extended to meet specific blockchain use cases or requirements.
+
+Module Summary: Instruct students to compile their findings into a well-structured summary document. The document should provide a clear overview of the module they studied, including its role, functionalities, and potential for customization.
+
+Submission: Students should submit their module summaries in a written format (e.g., document or presentation) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the module summary.
+Clarity and organization of the summary document.
+Engagement with the assigned readings or tutorials.

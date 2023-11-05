@@ -1,0 +1,31 @@
+Introduction to Ink!
+
+Objective:
+The objective of this assignment is to familiarize students with the Ink! smart contract language and its syntax. Students will install the Ink! development environment and IDE on their local machines and complete a series of coding exercises that gradually introduce them to Ink! syntax, with a focus on variables, functions, and control structures.
+
+Instructions:
+
+Introduction to Ink!: Begin by introducing students to the Ink! smart contract language and its significance in the Polkadot ecosystem. Explain that Ink! is designed for writing smart contracts on Polkadot and Kusama.
+
+Installation of Ink! Development Environment: Instruct students to install the Ink! development environment and IDE on their local machines. Provide step-by-step installation instructions or direct them to relevant documentation.
+
+Coding Exercises: Assign a series of coding exercises that gradually introduce students to Ink! syntax. Start with simple exercises and progress to more complex ones. The exercises should cover the following topics:
+
+a. Variables: Ask students to create variables of different data types (e.g., integers, strings) and perform basic operations on them.
+
+b. Functions: Task students with defining functions, passing parameters, and returning values. Exercises should include functions with varying degrees of complexity.
+
+c. Control Structures: Introduce control structures such as conditionals (if statements) and loops (for and while loops). Assign exercises that require students to use these control structures effectively.
+
+Documentation and Code Submission: Require students to document their progress as they complete each exercise. They should provide comments within their code to explain their thought process and the purpose of each code block.
+
+Submission: Students should submit their code solutions along with their documentation on the course platform by the specified deadline.
+
+Testing and Debugging (Optional): Optionally, encourage students to test their Ink! code by deploying it to a local Polkadot testnet or using the provided tools for testing. They can also document any issues they encounter and how they resolved them.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completion of coding exercises with correct and functional solutions.
+Clarity of code documentation and comments.
+Relevance of the content to the course objectives.

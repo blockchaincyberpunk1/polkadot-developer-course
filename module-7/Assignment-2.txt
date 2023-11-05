@@ -1,0 +1,42 @@
+Polkadot Forum Participation
+
+Objective:
+The objective of this assignment is to encourage students to actively engage in discussions and knowledge sharing on the Polkadot developer forum.
+
+Instructions:
+
+Forum Registration:
+
+Instruct students to create accounts on the Polkadot developer forum (or any relevant Polkadot-related forums). Provide guidance on the registration process if needed.
+Topic Selection:
+
+Assign specific topics, questions, or discussions related to Polkadot, parachains, Substrate development, or other relevant subjects.
+Ensure that these topics are suitable for various levels of expertise, from beginner to advanced.
+Discussion Participation:
+
+Ask students to actively participate in the assigned forum discussions. They should contribute by asking insightful questions, providing clear and informative answers, or sharing relevant insights or experiences.
+Encourage students to engage in constructive and respectful discussions with fellow community members.
+New Discussion Initiation:
+
+Require each student to initiate at least one new discussion or topic on the forum. These topics should be relevant to the Polkadot ecosystem and can range from technical questions to broader blockchain industry trends.
+Knowledge Sharing:
+
+Emphasize the importance of sharing knowledge and insights. Students should not only seek answers to their questions but also provide valuable responses to others.
+Encourage students to use credible sources and cite references when necessary.
+Forum Etiquette:
+
+Remind students of forum etiquette, including politeness, respect for diverse opinions, and adherence to community guidelines.
+Documentation:
+
+Request students to keep a record of their forum participation, including links to the discussions they initiated or contributed to.
+Submission and Evaluation:
+
+Collect evidence of students' forum participation, including links to their posts, contributions, and discussions.
+Evaluate students based on the quality and engagement of their forum posts, their ability to initiate discussions, and their willingness to collaborate and share knowledge with the community.
+Grading Criteria:
+Students will be evaluated based on the following criteria:
+
+Quality, relevance, and engagement of their forum posts.
+Active initiation of new discussions or topics.
+Respectful and constructive interaction with other community members.
+Documentation of their forum participation and contributions.

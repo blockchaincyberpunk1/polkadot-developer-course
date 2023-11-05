@@ -1,0 +1,35 @@
+Contract Interaction
+
+Objective:
+The objective of this assignment is to teach students how to interact with Ink! smart contracts. Students will be assigned a task that involves deploying an Ink! smart contract to a local Polkadot network or a testnet. They will also create a separate application that interacts with the deployed contract, calling its functions and displaying the results. Students should provide a summary of the interactions and any challenges faced during development.
+
+Instructions:
+
+Introduction to Contract Interaction: Begin by explaining the importance of understanding how to interact with smart contracts in the Polkadot ecosystem. Emphasize that this knowledge is crucial for building decentralized applications (dApps) and integrating smart contracts into various use cases.
+
+Contract Deployment: Assign students the task of deploying an Ink! smart contract to either a local Polkadot network or a testnet. Provide them with a pre-written smart contract (e.g., a simple token contract) that they will deploy. Include deployment instructions and guide them through the process if necessary.
+
+Application Development: Instruct students to create a separate application that interacts with the deployed smart contract. This application can be developed using a suitable programming language or framework of their choice. Students should implement the following interactions:
+
+a. Call Contract Functions: Students should call one or more functions of the deployed contract. For example, in the case of a token contract, they can call functions to check balances or transfer tokens.
+
+b. Display Results: The application should display the results of the contract interactions, such as the token balance of a specific account or the outcome of a transaction.
+
+Documentation and Summary: Ask students to provide documentation for their application, including comments within the code to explain the interactions. Additionally, they should write a summary that describes:
+
+a. The purpose of the application and the specific contract functions it interacts with.
+
+b. Any challenges or issues they encountered during the development process and how they addressed them.
+
+c. Lessons learned or insights gained from the experience of interacting with an Ink! smart contract.
+
+Submission: Students should submit their application code, along with the documentation and summary, on the course platform by the specified deadline.
+
+Testing and Demo (Optional): Optionally, you can allow students to present and demonstrate their applications to the class, showcasing how they interact with the deployed smart contract.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful deployment of the Ink! smart contract.
+Proper implementation of contract interactions in the application.
+Clarity and thoroughness of code documentation and the summary.

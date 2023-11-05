@@ -1,0 +1,38 @@
+Governance Proposal Simulation
+
+Objective:
+The objective of this assignment is to provide students with practical experience in understanding and participating in Polkadot's governance processes. Students will work in groups to simulate the creation and presentation of a governance proposal, followed by a class simulation where they engage in discussions and mock voting.
+
+Instructions:
+
+Introduction to Polkadot Governance: Begin by introducing students to the concept and importance of governance within blockchain networks. Explain that governance mechanisms are responsible for making decisions about protocol changes, network upgrades, and other significant matters.
+
+Group Formation:
+
+Divide the class into small groups, ensuring each group has an equal number of students.
+Assign each group a hypothetical scenario related to a proposed change or upgrade in the Polkadot network. Examples could include changes in transaction fees, an upgrade to the consensus mechanism, or adjustments to validator rewards.
+Governance Proposal Preparation:
+
+Instruct each group to create a detailed governance proposal document that includes the following:
+A clear rationale for the proposed change, including its benefits and potential drawbacks.
+Technical specifications explaining how the change will be implemented.
+A timeline for the proposal's execution.
+A list of potential challenges and how they will be addressed.
+Classroom Simulation:
+
+Conduct a class simulation in which each group takes turns presenting their governance proposal to the "Polkadot Council." The Council consists of students from other groups.
+After each presentation, open the floor for discussions, questions, and feedback from the Council members.
+Facilitate a mock vote where Council members decide whether to approve, reject, or request further revisions for each proposal. Use a simple voting mechanism (e.g., raised hands or digital polling tools).
+Debriefing:
+
+After all proposals have been presented and discussed, conduct a debriefing session with the entire class.
+Discuss the challenges faced during the simulation, including differing opinions, technical concerns, and the decision-making process.
+Encourage students to reflect on the importance of governance in blockchain networks and the complexities involved in reaching consensus.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Quality and clarity of the governance proposal documents.
+Effectiveness of the proposal presentations and responses to questions.
+Active participation in the governance simulation.
+Constructive feedback and discussions during the simulation.
+Reflection on the challenges and insights gained from the simulation.

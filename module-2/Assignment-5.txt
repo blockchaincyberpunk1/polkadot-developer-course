@@ -1,0 +1,37 @@
+Polkadot Ecosystem Exploration
+
+Objective:
+The objective of this assignment is to introduce students to the broader Polkadot ecosystem by exploring various projects and tools within it. Students will be provided with a list of Polkadot ecosystem projects and tools (e.g., wallets, explorers, or governance platforms) and will be assigned to explore and write brief descriptions of three projects or tools from the list, emphasizing how they contribute to the Polkadot ecosystem.
+
+Instructions:
+
+Introduction to the Polkadot Ecosystem: Begin by explaining the significance of the Polkadot ecosystem and how various projects and tools contribute to its growth and functionality.
+
+List of Polkadot Ecosystem Projects and Tools: Share a list of Polkadot ecosystem projects and tools with students. You can provide a diverse selection, including projects related to wallets, block explorers, governance, parachains, or other categories. Ensure that the list includes at least nine options.
+
+Project Selection: Instruct each student to choose three projects or tools from the provided list to explore. They should select projects that pique their interest or align with their career aspirations.
+
+Project Exploration: Ask students to conduct research on each of their chosen projects or tools. They should focus on the following aspects for each project:
+
+a. Description: Provide a brief description of the project, including its main purpose and goals within the Polkadot ecosystem.
+
+b. Key Features: Highlight the key features or functionalities that make the project unique or valuable.
+
+c. Use Cases: Discuss potential use cases or scenarios in which the project or tool is commonly utilized.
+
+d. Contributions to Polkadot: Explain how the project or tool contributes to the overall growth, adoption, or functionality of the Polkadot ecosystem.
+
+Relevance to Course: Explain how gaining insights into the broader Polkadot ecosystem is relevant to the Polkadot Developer course and how students can benefit from this knowledge.
+
+Compilation of Information: Instruct students to compile the information about the three projects or tools they explored into a document (e.g., a Word document or PDF) for submission.
+
+Presentation (Optional): Optionally, students may choose to present their findings to the class, briefly introducing the projects they explored and highlighting their contributions to Polkadot.
+
+Submission: Students should submit their compilation of project descriptions on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Quality of project descriptions, including accurate and concise information.
+Emphasis on the contributions of the projects or tools to the Polkadot ecosystem.
+Relevance of the content to the course objectives.

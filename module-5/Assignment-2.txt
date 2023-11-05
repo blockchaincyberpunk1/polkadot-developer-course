@@ -1,0 +1,31 @@
+Exploring Polkadot Bridges
+
+Objective:
+The objective of this assignment is to familiarize students with Polkadot bridges and their significance in connecting different blockchains. Students will explore the architecture and operation of Polkadot bridges by researching a specific bridge project or case study. Additionally, they will identify potential use cases for Polkadot bridges in cross-chain asset transfers and data sharing.
+
+Instructions:
+
+Introduction to Polkadot Bridges: Begin by providing students with an overview of what Polkadot bridges are and their role in enabling interoperability between different blockchains within the Polkadot ecosystem.
+
+Reading and Research: Share documentation, articles, or resources that explain the architecture and operation of Polkadot bridges. Encourage students to explore the technical aspects of how these bridges function.
+
+Selecting a Bridge Project: Assign each student or group of students to choose a specific Polkadot bridge project or case study to investigate. The chosen project should involve bridging Polkadot with another blockchain (e.g., Ethereum, Bitcoin, or another Polkadot parachain).
+
+Research and Summary: Instruct students to research and summarize the following aspects of their chosen bridge project:
+
+a. Technical Details: Describe how the bridge is technically implemented, including the protocols, smart contracts, or mechanisms used for asset transfers or data sharing.
+
+b. Functionality: Explain how the bridge facilitates interoperability between the two blockchains, detailing the steps involved in transferring assets or data.
+
+c. Security Measures: Highlight any security measures or precautions taken by the bridge project to ensure the safe transfer of assets or data.
+
+Use Cases: Ask students to identify and discuss potential use cases for Polkadot bridges in the context of cross-chain asset transfers and data sharing. Encourage them to think creatively about how bridges can benefit the broader blockchain ecosystem.
+
+Report Submission: Students should submit a comprehensive report summarizing their findings on the chosen bridge project and their insights into potential use cases for Polkadot bridges. The report should be well-organized and include technical details where applicable.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the research on the chosen bridge project.
+Clarity and depth of the use cases discussion.
+Overall quality and organization of the report.

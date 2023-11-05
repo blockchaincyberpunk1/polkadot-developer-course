@@ -1,0 +1,31 @@
+Polkadot Overview
+
+Objective:
+The objective of this assignment is to ensure that students grasp the fundamental concepts of Polkadot and understand its significance in the blockchain space. Students will be provided with an introductory document or video about Polkadot's architecture, technology, and goals. They will then create a concise summary of the key takeaways, emphasizing how Polkadot differentiates itself from other blockchain platforms.
+
+Instructions:
+
+Introduction to Polkadot Overview: Begin by introducing the importance of understanding Polkadot's core concepts and its role in the blockchain ecosystem. Explain that this assignment aims to build a strong foundational understanding of Polkadot.
+
+Provided Resource: Share a document or video that provides an overview of Polkadot's architecture, technology, and goals. Ensure that the resource offers a clear and comprehensive introduction to Polkadot.
+
+Resource Review and Summary: Instruct students to review the provided resource and create a concise summary. The summary should include the following elements:
+
+a. Key Takeaways: Summarize the most important points and concepts covered in the resource. Identify the core ideas that are essential for understanding Polkadot.
+
+b. Differentiation: Emphasize how Polkadot differentiates itself from other blockchain platforms or networks. Highlight its unique features or design principles that set it apart.
+
+c. Significance: Discuss the significance of Polkadot in the blockchain space. Explain how its architecture addresses common blockchain limitations or challenges.
+
+Clarity and Conciseness: Encourage students to present their summary in a clear and concise manner. The goal is to convey the essential information without unnecessary complexity.
+
+Relevance to Course: Explain how the knowledge gained from the Polkadot overview is relevant to the Polkadot Developer course and how it sets the foundation for future topics.
+
+Submission: Students should submit their Polkadot overview summary as a document (e.g., a Word document or PDF) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the summary, including key takeaways and differentiation points.
+Thoughtful discussion of Polkadot's significance in the blockchain space.
+Relevance of the summary to the course objectives.

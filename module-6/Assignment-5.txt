@@ -1,0 +1,44 @@
+Governance and Security Whitepaper
+
+Objective:
+The objective of this assignment is to challenge students to synthesize their knowledge of governance and security in the context of the Polkadot ecosystem by creating a comprehensive whitepaper.
+
+Instructions:
+
+Introduction to Governance and Security: Begin by providing an overview of the importance of governance practices and network security in blockchain ecosystems, with a specific focus on Polkadot.
+
+Topic Selection:
+
+Assign each student or group of students a specific topic related to governance, security, or their intersection within the Polkadot ecosystem.
+Suggested topics may include recent governance decisions, key governance mechanisms (e.g., referendums, council elections), security incidents, or proposed security enhancements.
+Ensure students have access to relevant articles, reports, and resources related to their assigned topics.
+Research and Analysis:
+
+Instruct students to conduct in-depth research and analysis of their assigned topics.
+They should explore recent governance decisions, the rationale behind them, and their implications for network security.
+Encourage students to investigate how governance mechanisms are designed to maintain or enhance security within the Polkadot network.
+If assigned a security incident, students should analyze the incident, the network's response, and lessons learned.
+Whitepaper Writing:
+
+Have students compile their research findings, analysis, and insights into a formal whitepaper.
+The whitepaper should include sections on governance practices, security considerations, case studies (if applicable), and recommendations for enhancing network security through governance.
+Encourage students to use proper citations and references for their sources.
+Presentation:
+
+Each student or group should prepare a brief presentation summarizing the key points of their whitepaper.
+Presentations should be clear, concise, and engaging.
+Peer Review:
+
+Organize a peer review session where students provide constructive feedback on each other's whitepapers and presentations.
+Submission and Evaluation:
+
+Collect the whitepapers and presentations for evaluation.
+Assess the whitepapers based on the depth of analysis, clarity of communication, and the practicality of the proposed recommendations.
+Provide feedback and grades to students based on their submissions.
+Grading Criteria:
+The whitepapers and presentations will be evaluated based on the following criteria:
+
+Depth and accuracy of research and analysis.
+Clarity and organization of the whitepaper.
+Quality of recommendations for enhancing network security through governance.
+Effectiveness of the presentation.

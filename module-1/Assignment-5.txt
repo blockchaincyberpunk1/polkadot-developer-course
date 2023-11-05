@@ -1,0 +1,40 @@
+Blockchain Glossary
+
+Objective:
+The objective of this assignment is to build a foundational vocabulary of blockchain-related terms and concepts. Students will be provided with a list of blockchain terms and will create a comprehensive glossary or dictionary with clear definitions and explanations for each term. This assignment helps students develop a strong understanding of essential blockchain terminology.
+
+Instructions:
+
+Introduction to Blockchain Glossary: Explain the importance of having a clear understanding of blockchain-related terms and concepts. Emphasize that this assignment will help students build a foundational vocabulary that will be valuable throughout the course and in their future blockchain endeavors.
+
+Provided Term List: Share a list of blockchain-related terms and concepts. Ensure that the list covers a wide range of topics within blockchain technology, including technical, governance, and economic terms. Examples of terms to include:
+
+Decentralization
+Smart Contract
+Consensus Mechanism
+Immutable
+Fork
+Validator Node
+Gas (in Ethereum)
+Interoperability
+Web3
+DApp (Decentralized Application)
+Tokenomics
+Oracles
+Glossary Creation: Instruct students to create a glossary or dictionary that includes clear and concise definitions and explanations for each term. Definitions should be accurate and reflect their understanding of the terms.
+
+Use of Sources: Encourage students to use various sources to research and define the terms. They can refer to textbooks, online resources, academic papers, and the course materials. Properly cite the sources used.
+
+Clarity and Consistency: Stress the importance of clarity and consistency in their definitions. Definitions should be written in a way that is easily understandable to their peers and should use consistent terminology.
+
+Relevance to Course: Explain how building a blockchain glossary is relevant to the Polkadot Developer course and how a strong blockchain vocabulary is a valuable asset for developers.
+
+Submission: Students should compile their blockchain glossary into a document (e.g., a Word document or PDF) and submit it on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of definitions and explanations.
+Coverage of a wide range of blockchain-related terms and concepts.
+Proper use of sources and citations.
+Relevance of the content to the course objectives.

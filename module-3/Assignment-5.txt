@@ -1,0 +1,33 @@
+Ink! vs. Other Smart Contract Languages
+
+Objective:
+The objective of this assignment is to encourage students to evaluate the advantages and disadvantages of Ink! compared to other smart contract languages. Students will choose one alternative smart contract language (e.g., Solidity, Rust) used in blockchain development and write a comparative analysis that highlights the strengths and weaknesses of Ink! in contrast to the chosen language in terms of ease of use, security, and development capabilities.
+
+Instructions:
+
+Introduction to Smart Contract Languages: Begin by providing an overview of different smart contract languages commonly used in blockchain development, including Ink!, Solidity, Rust, or any other language you deem relevant to the course.
+
+Language Selection: Ask students to choose one alternative smart contract language (other than Ink!) that they are interested in comparing with Ink!.
+
+Comparative Analysis: Assign students the task of conducting a comparative analysis between Ink! and the chosen alternative language. They should focus on the following aspects:
+
+a. Ease of Use: Evaluate the ease of writing, deploying, and interacting with smart contracts in both languages. Discuss any user-friendly features or challenges.
+
+b. Security: Analyze the security features and considerations specific to each language. Discuss any built-in security measures or vulnerabilities that developers should be aware of.
+
+c. Development Capabilities: Compare the development capabilities of both languages, including the range of functionalities they support, libraries available, and extensibility.
+
+Real-World Examples (Optional): Encourage students to include real-world examples or case studies where each language has been used. They can highlight successful projects or notable implementations.
+
+Conclusion: Ask students to conclude their analysis by summarizing their findings and providing their personal opinions on when it might be advantageous to choose Ink! over the alternative language or vice versa.
+
+Presentation (Optional): Optionally, you can allow students to present their comparative analysis to the class, fostering discussion and sharing of insights.
+
+Submission: Students should submit their comparative analysis in a written format (e.g., document or presentation) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Depth and quality of the comparative analysis.
+Clarity and organization of the presentation (if applicable).
+Personal insights and conclusions provided by the student.

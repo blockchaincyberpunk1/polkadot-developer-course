@@ -1,0 +1,48 @@
+Community Engagement through Open-Source Contributions
+
+Objective:
+The objective of this assignment is to encourage students to actively engage with the Polkadot developer community by making meaningful open-source contributions.
+
+Instructions:
+
+Project Selection:
+
+Assign each student or group of students a specific open-source project related to Polkadot, Substrate, or the broader Polkadot ecosystem.
+Ensure that each project has issues labeled as "beginner-friendly" or "good first issue" to provide students with suitable entry points.
+Project Exploration:
+
+Instruct students to thoroughly explore the selected open-source project, including its codebase, documentation, and issue tracker.
+Encourage them to understand the project's purpose, goals, and contribution guidelines.
+Issue Identification:
+
+Ask students to identify at least one issue within the project where they can make a meaningful contribution. This could be a bug fix, a new feature, an improvement to existing code, or documentation enhancement.
+Contribution Planning:
+
+Guide students in planning their contributions by discussing the issue with them, breaking down the tasks required, and creating a clear plan of action.
+Coding and Documentation:
+
+Have students actively work on their contributions by writing code or documentation.
+Encourage them to follow best practices and adhere to coding style guidelines specified by the project.
+Pull Requests and Interaction:
+
+Instruct students to create pull requests (PRs) for their contributions to the project's repository.
+Emphasize the importance of effective communication and collaboration with project maintainers and other contributors.
+Encourage students to actively respond to feedback and make necessary revisions to their PRs.
+Community Engagement:
+
+Require students to actively engage in discussions within the project's community channels, such as GitHub issues, forums, or chat rooms.
+Encourage them to share their progress, ask questions, and help other contributors if possible.
+Documentation:
+
+Ask students to maintain clear documentation of their contributions, including the problem they addressed, the solution implemented, and any challenges faced during the process.
+Submission and Evaluation:
+
+Collect evidence of students' contributions, including links to their PRs, communication within the community, and documentation.
+Evaluate students based on the quality and impact of their contributions, as well as their interactions with the open-source community.
+Grading Criteria:
+Students will be evaluated based on the following criteria:
+
+Quality and significance of their open-source contributions.
+Active and constructive engagement with the project's community.
+Documentation of contributions and interactions.
+Responsiveness to feedback and collaboration with project maintainers and contributors.

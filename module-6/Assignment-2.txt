@@ -1,0 +1,30 @@
+Governance in the Polkadot Ecosystem
+
+Objective:
+The objective of this assignment is to ensure that students understand Polkadot's governance model and its significance in decision-making within the network. Students will research Polkadot's governance model, analyze recent governance proposals, and compare Polkadot's governance system to those of other blockchains.
+
+Instructions:
+
+Introduction to Polkadot Governance: Begin by providing students with an introduction to the importance of governance in blockchain networks. Explain that governance mechanisms are vital for making decisions about protocol upgrades, network parameters, and other critical aspects.
+
+Research and Study:
+
+Assign students to research Polkadot's governance model, including its key components such as referendums, council members, and technical committees. Students should use official Polkadot documentation and resources.
+Instruct students to explore recent governance proposals and referendums on the Polkadot network. They should choose one specific example and gather information on the proposal's nature, the reasons it was introduced, and the outcome of the community vote.
+Essay Preparation:
+
+Have students write a well-structured essay that summarizes the selected governance proposal within the Polkadot ecosystem. The summary should include a clear explanation of the proposal, its objectives, and the results of the community vote.
+Encourage students to analyze the advantages and challenges of Polkadot's governance model. They should compare Polkadot's model to that of at least one other blockchain network, highlighting key differences.
+Ask students to consider the potential impact of governance decisions on the Polkadot network's evolution and growth. How does the governance system contribute to the network's adaptability and resilience?
+Essay Presentation:
+
+Instruct students to present their findings in the form of a well-structured essay. The essay should include an introduction, sections covering the selected governance proposal and analysis, a comparative evaluation, and a conclusion.
+Encourage students to use proper citations and references for the sources they consulted.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Accuracy and depth of research on Polkadot's governance model.
+Comprehensive summary and analysis of the selected governance proposal.
+Thorough comparative evaluation of Polkadot's governance system with that of another blockchain.
+Clarity, organization, and quality of the essay.
+Thoughtful consideration of the impact of governance decisions on the Polkadot network.

@@ -1,0 +1,37 @@
+Substrate Framework Exploration
+
+Objective:
+The objective of this assignment is to familiarize students with the Substrate framework and its capabilities for blockchain development. Students will be tasked with installing and setting up the Substrate framework on their local machines, exploring Substrate's documentation, and creating a simple custom blockchain or parachain using Substrate. They should document their experience and highlight key features and components of Substrate.
+
+Instructions:
+
+Introduction to Substrate Framework: Begin by introducing the importance of Substrate as a powerful framework for blockchain development. Explain that this assignment will help students gain hands-on experience with Substrate and understand its capabilities.
+
+Installation and Setup: Instruct students to install and set up the Substrate framework on their local machines. Provide step-by-step instructions or references to official Substrate documentation to guide them through the installation process.
+
+Exploration of Substrate Documentation: Ask students to explore Substrate's official documentation to gain a deeper understanding of its features and components. They should focus on the following aspects:
+
+a. Key Concepts: Have students study key concepts such as runtime modules, the FRAME framework, and consensus mechanisms that Substrate offers.
+
+b. Tutorials and Examples: Encourage students to review tutorials and examples provided in the documentation to see how different blockchain components are built using Substrate.
+
+Creation of Custom Blockchain or Parachain: Task students with using Substrate to create a simple custom blockchain or parachain. They should have the flexibility to choose the nature of their blockchain (e.g., public or private) and define its features.
+
+Documentation and Analysis: As students work on their custom blockchain or parachain, instruct them to document their experience. They should highlight the key features and components of Substrate that they used or encountered during the development process.
+
+Code and Configuration: Students should include code snippets and configuration files in their documentation to illustrate how they implemented specific features within their custom blockchain or parachain.
+
+Challenges and Solutions: Encourage students to discuss any challenges they faced during the exploration and development process and how they resolved them. This can provide valuable insights to peers.
+
+Relevance to Course: Explain how gaining hands-on experience with Substrate is relevant to the Polkadot Developer course and the broader blockchain development field.
+
+Submission: Students should compile their documentation, including code snippets and configuration files, into a document (e.g., a Word document or PDF) and submit it on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful installation and setup of the Substrate framework.
+Depth of exploration of Substrate's documentation and understanding of its key concepts.
+Quality of the custom blockchain or parachain created using Substrate.
+Clarity and completeness of documentation, including code snippets and configurations.
+Relevance of the content to the course objectives.

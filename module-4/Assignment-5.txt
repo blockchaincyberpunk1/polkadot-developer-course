@@ -1,0 +1,35 @@
+Parachain Interoperability
+
+Objective:
+The objective of this assignment is to teach students about interoperability between parachains and the Polkadot network. Students will build on their previously created parachain by adding an interoperable feature, enabling it to communicate with other parachains on the Polkadot network. This assignment also encourages students to document the interoperability implementation and explore the benefits and potential use cases of parachain interoperability.
+
+Instructions:
+
+Introduction to Parachain Interoperability: Begin by explaining the concept of interoperability in the context of Polkadot and its significance. Emphasize that this assignment will focus on enhancing the previously created parachain to enable communication with external parachains and the Polkadot network.
+
+Enhancing the Parachain: Instruct students to work on their previously created parachain (from Homework Assignment 4) and add an interoperable feature to it. This feature should allow their parachain to interact with other parachains on the Polkadot network.
+
+Interoperability Implementation: Students should focus on the following aspects during the implementation:
+
+a. Module or Functionality: Specify the module or functionality that enables interoperability. This could involve using Polkadot's cross-chain messaging system or other interoperability mechanisms.
+
+b. Interchain Communication: Describe how the parachain will communicate with external parachains and the Polkadot relay chain. Students should implement this communication mechanism in their code.
+
+Documentation: Encourage students to document their interoperability implementation thoroughly. This documentation should include:
+
+a. Implementation Details: Explain how the interoperability feature was integrated into the existing parachain code. Provide code snippets and explanations where necessary.
+
+b. Use Cases: Explore potential use cases and scenarios where the interoperability feature can be beneficial. Discuss the advantages of parachains being able to communicate with each other and with the Polkadot network.
+
+Testing: Ensure that the enhanced parachain functions correctly by conducting testing. Students should create test cases to verify the interoperability features.
+
+Summary of Benefits: Instruct students to provide a summary of the benefits of parachain interoperability. They should also consider potential use cases, such as asset transfers between parachains or shared functionality among parachains.
+
+Submission: Students should submit their enhanced parachain code, documentation, and any test cases they've created on the course platform by the assignment deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the interoperability feature.
+Clarity and completeness of documentation.
+Thorough testing and validation of the enhanced parachain.

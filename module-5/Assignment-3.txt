@@ -1,0 +1,36 @@
+Designing a Cross-Chain Use Case
+
+Objective:
+The objective of this assignment is to encourage students to think critically about cross-chain use cases and design their own scenarios. Students will tackle a problem statement that necessitates cross-chain communication between two hypothetical parachains. They will be challenged to design a cross-chain solution that utilizes Polkadot's capabilities to address the problem effectively. This assignment aims to enhance students' understanding of cross-chain interoperability, security, scalability, and data consistency.
+
+Instructions:
+
+Problem Statement: Provide students with a problem statement that requires cross-chain communication between two hypothetical parachains within the Polkadot ecosystem. The problem statement should describe a real-world or blockchain-related challenge that can be resolved through cross-chain interactions.
+
+Research and Understanding: Encourage students to research and understand the specific requirements and intricacies of the problem statement. They should consider the context, potential stakeholders, and the significance of solving the problem.
+
+Designing the Cross-Chain Solution: Task students with designing a cross-chain solution that leverages Polkadot's capabilities to address the problem effectively. They should consider the following aspects in their design:
+
+a. Use Case Description: Clearly describe the cross-chain use case, including its purpose, stakeholders, and expected outcomes.
+
+b. Architecture: Outline the architecture of the solution, detailing how the two parachains will communicate and exchange data or assets. Consider the role of validators, collators, and relay chains in the process.
+
+c. Interoperability Mechanism: Specify the mechanisms and protocols used for cross-chain communication. Explain how the solution ensures secure and efficient interoperability.
+
+d. Security Measures: Discuss the security measures in place to protect the integrity and confidentiality of data and assets during cross-chain transfers.
+
+e. Scalability: Address how the solution scales to handle increased transaction volumes and data traffic.
+
+f. Data Consistency: Explain how data consistency is maintained across the two parachains, ensuring that the information remains accurate and up to date.
+
+Benefits and Impact: Describe the potential benefits and impact of the proposed cross-chain solution. How does it improve the current state of affairs or address the problem statement more effectively than a single-chain solution?
+
+Report Submission: Students should submit a well-structured written proposal outlining their designed cross-chain use case and solution. The proposal should be clear, comprehensive, and address all the relevant aspects of the design.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Creativity and effectiveness of the cross-chain solution design.
+Clarity and depth of the use case description and architecture.
+Consideration of security, scalability, and data consistency.
+Potential benefits and impact of the proposed solution.

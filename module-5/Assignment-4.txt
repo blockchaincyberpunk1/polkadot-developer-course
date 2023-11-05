@@ -1,0 +1,44 @@
+Polkadot Bridge Implementation
+
+Objective:
+The objective of this assignment is to provide students with hands-on experience in implementing a simple Polkadot bridge. Students will gain practical knowledge of how Polkadot bridges enable cross-chain communication. They will be tasked with setting up a basic Polkadot bridge that connects two test blockchains (e.g., private Ethereum testnets) and documenting the implementation process. Additionally, students will conduct a demo or showcase their functional Polkadot bridge.
+
+Instructions:
+
+Introduction to Polkadot Bridges: Begin by providing students with an overview of Polkadot bridges, explaining their importance in enabling cross-chain communication and interoperability within the Polkadot ecosystem.
+
+Assignment Description: Task students with implementing a basic Polkadot bridge that connects two test blockchains. You can choose Ethereum testnets for simplicity. The bridge should facilitate the transfer of assets or data between the two blockchains.
+
+Setup and Environment:
+
+Students should set up a development environment that includes a Polkadot node and two blockchain nodes (e.g., Ethereum nodes for the testnets).
+Provide step-by-step instructions or a basic bridge framework to guide students through the setup process.
+Bridge Implementation:
+
+Instruct students to write the necessary code to create the bridge. They should focus on functionalities like asset locking, bridging, and asset unlocking.
+Encourage students to document their code, explaining key components and processes within the bridge.
+Testing and Debugging:
+
+Students should thoroughly test their Polkadot bridge to ensure its functionality and correctness.
+Task them with identifying and debugging any issues that may arise during testing.
+Documentation:
+
+Require students to document the entire implementation process. This documentation should include:
+Detailed setup instructions for the development environment.
+Code snippets and explanations of the bridge implementation.
+Testing procedures and results.
+Any issues encountered and their resolutions.
+A summary of lessons learned during the implementation.
+Demo or Showcase:
+
+Students should conduct a demo or showcase of their functional Polkadot bridge. They can use sample transactions to demonstrate the bridge's operation.
+Submission:
+
+Students should submit their documentation, code, and any additional materials (e.g., video recordings of the demo) as part of their assignment submission.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Successful implementation of the Polkadot bridge.
+Thorough testing and debugging of the bridge.
+Clarity and completeness of documentation.
+Effective demonstration or showcase of the bridge's functionality.

@@ -1,0 +1,36 @@
+Polkadot Documentation Review
+
+Objective:
+The objective of this assignment is to ensure students have a solid understanding of Polkadot's documentation and best practices while also contributing to its improvement.
+
+Instructions:
+
+Documentation Assignment:
+
+Assign each student or a group of students specific sections or topics from Polkadot's official documentation or whitepapers to review.
+Ensure that the assigned topics cover a range of important aspects of Polkadot, including technical details, governance, parachains, consensus mechanisms, or any other relevant areas.
+Documentation Review:
+
+Instruct students to thoroughly review the assigned documentation. They should consider the following while reviewing:
+Summarization: Summarize the key concepts, technical details, and best practices presented in the documentation.
+Clarity and Understanding: Evaluate the clarity and ease of understanding of the content. Are there any sections that might be confusing to newcomers?
+Relevance: Assess the relevance of the documentation to Polkadot developers and stakeholders.
+Completeness: Determine if there are any gaps or missing information in the documentation.
+Examples: Note the presence of code examples, use cases, or practical demonstrations that aid comprehension.
+Feedback and Suggestions:
+
+Require students to provide constructive feedback or suggestions for improving the documentation. They should:
+Identify areas that may require further clarification, additional examples, or more in-depth explanations.
+Suggest improvements to enhance the overall quality and comprehensibility of the documentation.
+Share their insights into how the documentation could better serve the needs of developers, enthusiasts, or other stakeholders.
+Documentation Enhancement:
+
+Encourage students to consider contributing directly to the documentation if they identify specific areas that need improvement. They can submit pull requests or recommendations to the Polkadot documentation repository.
+Presentation and Discussion:
+
+Organize a class presentation or discussion where students can share their findings, feedback, and suggestions. Encourage a collaborative environment for knowledge sharing.
+Grading and Evaluation:
+
+Evaluate students based on the depth and quality of their documentation review, the clarity of their feedback, and the relevance of their suggestions for improvement.
+Grading Criteria:
+Students will be assessed on the thoroughness of their documentation review, the quality of their feedback and suggestions, and their active participation in the presentation or discussion.  

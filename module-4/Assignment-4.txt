@@ -1,0 +1,35 @@
+Parachain Implementation with Substrate
+
+Objective:
+The objective of this assignment is to enable students to apply their knowledge of Substrate by building a basic parachain. Students will be provided with a simplified parachain development scenario, such as creating a basic token parachain. They will implement the parachain using Substrate, focusing on modules and runtime logic. This assignment also encourages students to document their development process and challenges.
+
+Instructions:
+
+Introduction to Parachain Development: Begin by explaining the importance of hands-on experience in parachain development using Substrate. Emphasize that this assignment will allow students to implement a basic parachain.
+
+Scenario Description: Provide students with a simplified parachain development scenario. For example, they could create a basic token parachain where users can issue and transfer tokens. Include specific requirements, such as the ability to create accounts, transfer tokens, and query balances.
+
+Substrate Implementation: Instruct students to implement the specified parachain using the Substrate framework. They should focus on the following aspects:
+
+a. Module Selection: Choose appropriate Substrate modules to implement the required functionality. Modules may include accounts, balances, tokens, or custom modules specific to the use case.
+
+b. Runtime Logic: Develop the runtime logic and functionality of the parachain based on the scenario requirements. Students should write code that allows users to interact with the parachain as specified.
+
+c. Testing: Ensure that the parachain functions as expected by conducting thorough testing. Students should create test cases to verify the functionality of their implementation.
+
+Documentation: Encourage students to document their development process. This documentation should include:
+
+a. Code Explanations: Explain key parts of the code, particularly those related to module usage and runtime logic. Students should provide comments or annotations to enhance code readability.
+
+b. Challenges Faced: Document any challenges or issues encountered during development and how they were addressed or resolved.
+
+Working Parachain Implementation: Students should submit their working parachain implementation, including all relevant code files, configurations, and test cases.
+
+Submission: Instruct students to submit their implementation and documentation in a specified format, such as a code repository or a zip file, on the course platform by the assignment deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and correctness of the parachain implementation.
+Clarity and thoroughness of code explanations.
+Documentation of challenges faced and solutions.

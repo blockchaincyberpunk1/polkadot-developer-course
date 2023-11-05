@@ -1,0 +1,33 @@
+Blockchain Essentials
+
+Objective:
+The objective of this assignment is to strengthen students' foundational knowledge of blockchain technology. Students will be tasked with researching and preparing a presentation or written report on the core elements of blockchain technology, including consensus mechanisms, decentralization, and security. They will also be encouraged to illustrate these concepts with diagrams or practical examples.
+
+Instructions:
+
+Introduction to Blockchain Essentials: Begin by explaining the importance of having a strong grasp of the fundamental principles of blockchain technology. Emphasize that these concepts serve as the building blocks for understanding Polkadot and other blockchain platforms.
+
+Research and Presentation: Instruct students to research and prepare either a presentation or a written report that covers the following key elements of blockchain technology:
+
+a. Consensus Mechanisms: Explain the concept of consensus mechanisms in blockchain, including Proof of Work (PoW), Proof of Stake (PoS), and other consensus algorithms. Describe how these mechanisms achieve agreement among network participants.
+
+b. Decentralization: Discuss the importance of decentralization in blockchain networks. Explain how it differs from centralized systems and how it contributes to the security and trustworthiness of blockchain.
+
+c. Security: Explore the security features of blockchain technology, including cryptographic techniques, immutability, and resistance to tampering. Provide examples of how blockchain enhances data security.
+
+Illustration and Examples: Encourage students to illustrate these concepts with diagrams, flowcharts, or practical examples. Visual aids can enhance understanding and make the presentation or report more engaging.
+
+Clarity and Conciseness: Emphasize the importance of presenting the information in a clear and concise manner. Students should aim to explain complex concepts in a way that is easily understandable to their peers.
+
+Relevance to Course: Explain how a solid understanding of blockchain essentials is relevant to the Polkadot Developer course and how these concepts relate to the broader blockchain ecosystem.
+
+Presentation (Optional): If students choose to create a presentation, they should deliver it to the class during a designated presentation session. Each presentation should be followed by a brief Q&A session for clarification and discussion.
+
+Submission (Written Report): If students choose to write a report, they should submit their written report as a document (e.g., a Word document or PDF) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Depth of coverage and accuracy of information on consensus mechanisms, decentralization, and security.
+Clarity of presentation or report, including effective use of visual aids (if applicable).
+Relevance of the content to the course objectives.

@@ -1,0 +1,36 @@
+Parachain and Relay Chain Interaction
+
+Objective:
+The objective of this assignment is to ensure that students grasp the concept of parachains and their interaction with the Polkadot relay chain. Students will be provided with reading materials or videos explaining Polkadot's parachain-based architecture and will be tasked with writing a detailed explanation of how parachains interact with the Polkadot relay chain, including the roles of validators and collators.
+
+Instructions:
+
+Introduction to Parachains and Relay Chain Interaction: Begin by introducing the importance of parachains and their role in the Polkadot network. Explain that this assignment will help students understand the fundamental concepts of how parachains interact with the Polkadot relay chain.
+
+Provided Reading Materials or Videos: Provide students with reading materials or video resources that explain Polkadot's parachain-based architecture, including the roles of validators and collators in the network. Ensure that the provided materials cover the topic comprehensively.
+
+Detailed Explanation: Instruct students to write a detailed explanation of how parachains interact with the Polkadot relay chain. Their explanation should include:
+
+a. Parachain Registration: Describe the process by which a parachain is registered on the Polkadot network. Explain the criteria and steps involved in becoming a parachain.
+
+b. Validators: Explain the role of validators in the Polkadot network. Discuss how validators are selected and their responsibilities in securing the relay chain and parachains.
+
+c. Collators: Describe the role of collators in parachains. Explain how collators collect and validate transactions within a parachain and interact with the relay chain.
+
+d. Message Passing: Discuss how messages and data are passed between parachains and the relay chain. Explain the importance of this communication for interoperability.
+
+Visual Aids (Optional): Encourage students to use visual aids such as diagrams or flowcharts to illustrate the interaction between parachains and the relay chain. Visual representations can enhance understanding.
+
+Clarity and Accuracy: Stress the importance of clarity and accuracy in their explanations. Students should aim to provide a clear and concise overview of the topic.
+
+Relevance to Course: Explain how understanding parachain and relay chain interaction is relevant to the Polkadot Developer course and the broader Polkadot ecosystem.
+
+Submission: Students should submit their detailed explanation as a document (e.g., a Word document or PDF) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Depth of explanation regarding parachain and relay chain interaction.
+Clarity and accuracy of the information presented.
+Effective use of visual aids (if applicable).
+Relevance of the content to the course objectives.

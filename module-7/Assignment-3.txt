@@ -1,0 +1,38 @@
+Polkadot Conference Report
+
+Objective:
+The objective of this assignment is to keep students informed about the latest developments and trends in the Polkadot ecosystem by attending a Polkadot-related conference.
+
+Instructions:
+
+Conference Selection:
+
+Provide students with a list of upcoming Polkadot-related conferences, webinars, or events. These events can be virtual or in-person, depending on availability.
+Session Selection:
+
+Ask each student to choose one specific session, topic, or presentation from the conference program that interests them the most. Ensure that the selected session is related to Polkadot technology, parachains, Substrate, or other relevant subjects.
+Conference Attendance:
+
+Instruct students to attend the chosen session of the conference. They can do this virtually by registering for webinars or physically if attending an in-person event.
+Key Takeaways Report:
+
+Require students to write a detailed report summarizing the key takeaways, insights, and trends discussed during the conference session they attended.
+Encourage them to take notes during the session to capture important points.
+Report Structure:
+
+Ask students to structure their reports with the following components:
+Title of the Conference Session Attended
+Date and Time of the Session
+Speakers and Presenters
+Summary of Key Points Discussed
+Notable Insights or Trends
+Personal Reflections on the Session
+Any Questions or Points for Discussion
+Sharing with Class:
+
+Encourage students to share their conference reports with the class. This can be done through presentations or written submissions, depending on the class format.
+Discussion:
+
+Facilitate a class discussion based on the reports. Encourage students to ask questions, provide additional insights, and engage in meaningful conversations about the topics covered in the conference.
+Grading Criteria:
+Students will be evaluated based on the quality and depth of their conference reports, including the accuracy of key takeaways, the relevance of insights, and the clarity of their personal reflections.

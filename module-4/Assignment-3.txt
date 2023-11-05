@@ -1,0 +1,33 @@
+Parachain Design and Planning
+
+Objective:
+The objective of this assignment is to teach students how to plan and design parachains using Substrate. Students will be presented with a real or hypothetical use case for a parachain and its associated requirements. They will then create a high-level design document outlining the structure of the parachain, including the choice of modules, runtime logic, and data storage. This assignment encourages students to consider scalability, security, and interoperability in their design choices.
+
+Instructions:
+
+Introduction to Parachain Design: Begin by explaining the importance of careful planning and design when creating parachains in the Polkadot ecosystem. Emphasize that the design phase plays a crucial role in achieving scalability, security, and interoperability.
+
+Use Case Presentation: Provide students with a real or hypothetical use case for a parachain. This use case should include specific requirements and objectives that the parachain must fulfill. For example, the use case could involve a decentralized identity system, supply chain tracking, or a decentralized finance application.
+
+High-Level Design Document: Instruct students to create a high-level design document for the parachain based on the provided use case. The document should include the following components:
+
+a. Use Case Description: Describe the use case in detail, including its purpose and objectives.
+
+b. Module Selection: Choose and justify the selection of Substrate modules that will be used to implement the parachain's functionality. Explain why each selected module is suitable for the use case.
+
+c. Runtime Logic: Outline the high-level logic and functionality of the parachain's runtime. Consider how the chosen modules will interact to achieve the use case's goals.
+
+d. Data Storage: Define the data storage requirements of the parachain, including the types of data that need to be stored on-chain and off-chain.
+
+e. Scalability and Interoperability: Discuss how the design addresses scalability issues and how it ensures compatibility and interoperability within the Polkadot network.
+
+Rationale: Require students to provide a brief rationale for their design choices. They should explain why certain modules were selected, how they contribute to achieving the use case objectives, and why the chosen runtime logic and data storage methods are appropriate.
+
+Submission: Students should submit their high-level design document in a written format (e.g., document or presentation) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and clarity of the high-level design document.
+Justification and rationale for module selection and design choices.
+Consideration of scalability, security, and interoperability.
